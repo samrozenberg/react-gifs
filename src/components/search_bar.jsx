@@ -4,7 +4,7 @@ class SearchBar extends Component {
   render() {
     return (
       <div>
-        Hello
+        <input type="text" className="form-search form-control"/>
       </div>
     );
   }
